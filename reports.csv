@@ -1,0 +1,6 @@
+host,proto,port,state,service,product,version
+45.33.32.156,tcp,22,open,ssh,OpenSSH,6.6.1p1 Ubuntu 2ubuntu2.13
+45.33.32.156,tcp,25,filtered,smtp,,
+45.33.32.156,tcp,80,open,tcpwrapped,,
+45.33.32.156,tcp,9929,open,tcpwrapped,,
+45.33.32.156,tcp,31337,open,tcpwrapped,,
